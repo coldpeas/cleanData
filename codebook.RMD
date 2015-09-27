@@ -1,0 +1,5 @@
+Codebook for run_analysis.R
+
+library(plyr)
+library(data.table)
+str(filterData2)
